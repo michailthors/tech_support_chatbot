@@ -3,11 +3,14 @@
 A RAG-based Tech Support Chatbot that answers customer support questions using real Twitter support conversations. Built with Groq API (Llama 3.3 70B), ChromaDB, sentence-transformers, FastAPI, Gradio, and Docker.
 
 ## 📸 Screenshots
-![](screenshots/tech0)
-![](screenshots/tech1)
-![](screenshots/tech2)
-![](screenshots/tech3)
-![](screenshots/tech4)
+
+
+![](https://raw.githubusercontent.com/michailthors/tech_support_chatbot/main/screenshots/tech0.png)
+![](https://raw.githubusercontent.com/michailthors/tech_support_chatbot/main/screenshots/tech1.png)
+![](https://raw.githubusercontent.com/michailthors/tech_support_chatbot/main/screenshots/tech2.png)
+![](https://raw.githubusercontent.com/michailthors/tech_support_chatbot/main/screenshots/tech3.png)
+![](https://raw.githubusercontent.com/michailthors/tech_support_chatbot/main/screenshots/tech4.png)
+
 ## 🏗️ Architecture
 
 The chatbot uses a RAG (Retrieval-Augmented Generation) pipeline:
